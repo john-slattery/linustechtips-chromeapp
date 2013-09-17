@@ -4,7 +4,7 @@
 	"manifest_version":2,
 	"description":"Quick access to linustechtips.com!",
 	"app":{
-			"urls":["https://teksyndicate.com/"],
+			"urls":["http://linustechtips.com/"],
 			"launch":{
 					"web_url":"http://linustechtips.com/"
 			}
