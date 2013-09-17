@@ -1,0 +1,16 @@
+{
+	"name":"Linus Tech Tips",
+	"version":"0.0.1",
+	"manifest_version":2,
+	"description":"Quick access to linustechtips.com!",
+	"app":{
+			"urls":["https://teksyndicate.com/"],
+			"launch":{
+					"web_url":"http://linustechtips.com/"
+			}
+	},
+	"icons":{
+			"128":"icon.png"
+	}
+
+}
